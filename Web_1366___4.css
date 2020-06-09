@@ -1,0 +1,706 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 4;
+	--web-view-id: Web_1366__4;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366__4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1366__4_Class {
+	position: absolute;
+	width: 1366px;
+	height: 1936px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 4;
+	--web-view-id: Web_1366__4;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+}
+.Path_139_l_Class {
+	fill: url(#Path_139_l);
+}
+.Path_139_l {
+	overflow: visible;
+	position: absolute;
+	width: 1366px;
+	height: 737.333px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Logo_web_white_text2_Class {
+	position: absolute;
+	width: 158px;
+	height: 44px;
+	left: 139px;
+	top: 47px;
+	overflow: visible;
+}
+.Contact_Us_Class {
+	position: absolute;
+	width: 100px;
+	height: 40px;
+	left: 1091px;
+	top: 54px;
+	overflow: visible;
+}
+.Rectangle_1_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+.CONTACT_US_Class {
+	left: 17px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.Devops_in_the__Multi-Cloud__Wo_Class {
+	left: 175px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	white-space: nowrap;
+	line-height: 73px;
+	margin-top: -8.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(255,255,255,1);
+}
+.drawkit-support-man-monochrome_Class {
+	position: absolute;
+	width: 449px;
+	height: 513px;
+	left: 742px;
+	top: 171px;
+	overflow: visible;
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+	left: 175px;
+	top: 450px;
+	position: absolute;
+	overflow: visible;
+	width: 445px;
+	height: 219px;
+	line-height: 21px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+.Your_Online_Success_Starts_Her_Class {
+	left: 283.5px;
+	top: 843px;
+	position: absolute;
+	overflow: visible;
+	width: 800px;
+	white-space: nowrap;
+	line-height: 73px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(102,46,155,1);
+}
+.We_work_with_local_business_ow_Class {
+	left: 464.5px;
+	top: 916px;
+	position: absolute;
+	overflow: visible;
+	width: 438px;
+	white-space: nowrap;
+	line-height: 21px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(38,15,59,1);
+}
+.Repeat_Grid_1_Class {
+	position: absolute;
+	width: 866px;
+	height: 224px;
+	left: 215px;
+	top: 973px;
+	overflow: hidden;
+}
+.Repeat_Grid_1_0_Class {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	left: 0px;
+	top: 10px;
+	overflow: visible;
+}
+.Rectangle_24_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_24 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_1_Class {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	left: 225px;
+	top: 10px;
+	overflow: visible;
+}
+.Rectangle_24_z_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_24_z {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_2_Class {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	left: 450px;
+	top: 10px;
+	overflow: visible;
+}
+.Rectangle_24__Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_24_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 0px;
+	top: 0px;
+}
+.Repeat_Grid_1_3_Class {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	left: 675px;
+	top: 10px;
+	overflow: visible;
+}
+.Rectangle_24_ba_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_24_ba {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 218px;
+	left: 0px;
+	top: 0px;
+}
+.Targeted_SEO_strategy__specifi_Class {
+	left: 468px;
+	top: 1031px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 176px;
+	line-height: 21px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(38,15,59,1);
+}
+.Not_all_high_ranked_links_get__Class {
+	left: 691px;
+	top: 1031px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 176px;
+	line-height: 21px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(38,15,59,1);
+}
+.For_your_website_to_be_SEO_fri_Class {
+	left: 908px;
+	top: 1031px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 176px;
+	line-height: 21px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(38,15,59,1);
+}
+.Any_kind_of_SEO_growth__needs__Class {
+	left: 248px;
+	top: 1031px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 176px;
+	line-height: 21px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(38,15,59,1);
+}
+.SEO_TRACKING__ANALYSIS______Class {
+	left: 215px;
+	top: 997px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(38,15,59,1);
+}
+.TARGETED_SEO_Class {
+	left: 491px;
+	top: 1001px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(38,15,59,1);
+}
+.LINK_AUDITING_Class {
+	left: 712px;
+	top: 997px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(38,15,59,1);
+}
+.SEO_CONTENT_Class {
+	left: 932px;
+	top: 997px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(38,15,59,1);
+}
+.Rectangle_25_bd_Class {
+	fill: url(#Rectangle_25_bd);
+}
+.Rectangle_25_bd {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 705px;
+	left: 0px;
+	top: 1231px;
+}
+.Line_1_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 976px;
+	height: 1px;
+	left: 175.5px;
+	top: 1276.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_3_Class {
+	position: absolute;
+	width: 360px;
+	height: 366px;
+	left: 491px;
+	top: 1336px;
+	overflow: visible;
+}
+.Name_Class {
+	position: absolute;
+	width: 360px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_2_Class {
+	position: absolute;
+	width: 360px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_140_Class {
+	fill: rgba(255,255,255,0.941);
+	stroke: rgba(102,46,155,0.239);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_140 {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.John_Doe_Class {
+	left: 20px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(114,114,114,1);
+}
+.Name_bk_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+.Name_bl_Class {
+	position: absolute;
+	width: 360px;
+	height: 75px;
+	left: 0px;
+	top: 101px;
+	overflow: visible;
+}
+.Group_2_bm_Class {
+	position: absolute;
+	width: 360px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_140_bn_Class {
+	fill: rgba(255,255,255,0.941);
+	stroke: rgba(102,46,155,0.239);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_140_bn {
+	overflow: visible;
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.testemailcom_Class {
+	left: 20px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(114,114,114,1);
+}
+.Email_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+.Component_4__2_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 332px;
+	top: 42px;
+	overflow: visible;
+}
+.Rectangle_460_Class {
+	fill: transparent;
+}
+.Rectangle_460 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Checkbox_Class {
+	fill: rgba(102,46,155,1);
+}
+.Checkbox {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 11.034px;
+	left: 0px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Textbox_Empty_Class {
+	position: absolute;
+	width: 359px;
+	height: 140px;
+	left: 1px;
+	top: 226px;
+	overflow: visible;
+}
+.Rectangle_683_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(102,46,155,0.239);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_683 {
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	height: 140px;
+	left: 0px;
+	top: 0px;
+}
+.Message_Class {
+	left: 20px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(114,114,114,1);
+}
+.Rectangle_684_Class {
+	fill: rgba(102,46,155,0.239);
+}
+.Rectangle_684 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 62px;
+	left: 0px;
+	top: 1874px;
+}
+.up_Class {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 1283px;
+	top: 1885px;
+	overflow: visible;
+}
+.Rectangle_130_Class {
+	fill: transparent;
+	stroke: rgba(102,46,155,0.239);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_130 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+.Symbol_50__1_Class {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 12px;
+	top: 12px;
+	overflow: visible;
+}
+.Path_10_Class {
+	fill: rgba(102,46,155,1);
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Button_CTA_Class {
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	left: 599px;
+	top: 1762px;
+	overflow: visible;
+}
+.Rectangle_1090_Class {
+	fill: rgba(33,212,253,1);
+}
+.Rectangle_1090 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.SEND_MESSAGE_Class {
+	left: 26px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -9px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
