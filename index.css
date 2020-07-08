@@ -57,8 +57,8 @@ nav.navbar.solid {
 
 .img-css{
 	margin: 0vh 10vh;
-	max-width:450px;
-	max-height: 513px;
+	width:450px;
+	height: 513px;
 }
 
 .cardrow{
