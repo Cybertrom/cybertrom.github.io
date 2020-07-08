@@ -1,9 +1,6 @@
 html{
 	scroll-behavior: smooth;
 }
-body{
-	overflow-x: hidden;	
-}
 .container{
 	background-image: linear-gradient(180deg, rgba(33, 212, 253, 1) 0%, rgba(183, 33, 255, 1) 100%);
 }
@@ -37,7 +34,7 @@ nav.navbar.solid {
 	width: 100%;
 	padding: 30vh 8vw;
 	color: white;
-	margin-bottom: 8vh;
+	margin-bottom: 4vh;
 
 }
 
@@ -60,6 +57,9 @@ nav.navbar.solid {
 	width:450px;
 	height: 513px;
 }
+.row{
+	margin: 5px 0px;
+}
 
 .cardrow{
 	margin: 10px 8vw;
@@ -74,7 +74,6 @@ nav.navbar.solid {
     font-weight: normal;
     font-size: 50px;
     color: rgba(102,46,155,1);
-    padding: 0px 18vw;
 }
 .cardrow h2{
     line-height: 21px;
@@ -83,7 +82,6 @@ nav.navbar.solid {
     font-weight: normal;
     font-size: 16px;
     color: rgba(38,15,59,1);
-    padding: 0px 23.9vw;
 }
 
 .card{
