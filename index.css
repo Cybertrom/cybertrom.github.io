@@ -1,21 +1,41 @@
+html{
+	scroll-behavior: smooth;
+}
 body{
 	overflow-x: hidden;	
 }
 .container{
 	background-image: linear-gradient(180deg, rgba(33, 212, 253, 1) 0%, rgba(183, 33, 255, 1) 100%);
-	
 }
 
+.headrow{
+	top: 0;
+
+}
 .headrow img{
-	margin:25px 8vw;
+	margin-left: 8vw;
 	max-width: 30vh;
 	max-height: 10vh;
 }
 
+nav.navbar{
+	background-color: rgba(255,255,255,0);
+	-webkit-transition: all 0.8s ease;
+   	transition: all 0.3s ease;
+}
+
+nav.navbar.solid {
+  background-color:rgba(33,212,253,0.9);
+}
+.btn-outline-light{
+	font-size: 12px;
+	font-weight: bold;
+	margin-right: 8vw;
+}
 
 .intro{
 	width: 100%;
-	padding: 2vh 8vw;
+	padding: 30vh 8vw;
 	color: white;
 	margin-bottom: 8vh;
 
@@ -36,7 +56,7 @@ body{
 }
 
 .img-css{
-	margin: 0vh 20vh;
+	margin: 0vh 10vh;
 	max-width:450px;
 	max-height: 513px;
 }
@@ -79,7 +99,9 @@ body{
 	background-image: linear-gradient(180deg, rgba(33, 212, 253, 1) 0%, rgba(183, 33, 255, 1) 100%);
 }
 form{
-	margin: 30px;
+	margin: 50px;
+	padding-bottom: 40px;
+	padding-top: 20px
 }
 
 form label{
@@ -100,8 +122,6 @@ form label{
 	}
 	.headrow img{
 		margin:25px 20px;
-		max-width: 15vh;
-		max-height: 5vh;
 	}
 
 	.img-css{

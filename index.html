@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="index.css">
     <title>Cybertrom Technologies</title>
@@ -13,15 +14,12 @@
 
 <body>
 	<div class="container col">
-		<div class="row headrow">
-			<div><img src="logo.png"></div>
-		</div>
-
-		<!-- <nav class="navbar navbar-light bg-primary headrow">
+		<nav class="navbar navbar-light fixed-top headrow">
 		  <a class="navbar-brand" href="#">
 		    <img src="logo.png" alt="Cybertrom Technologies">
 		  </a>
-		</nav> -->
+		    <a class="btn btn-outline-light my-2 my-sm-0" type="submit" href="#contact-form">Contact Us</a>
+		</nav>
 
 		<!-- Intro -->
 		<div class="row intro">
@@ -31,7 +29,7 @@
 			</div>
 
 			<div class="col-md-6">
-				<img src="man_vector.png" class="img-css">
+				<img src="man_vector.svg" class="img-css">
 			</div>
 		</div>
 	</div>
@@ -84,7 +82,7 @@ specifically customised to match your business industry.</p>
 			</div>
 		</div>
 	</div>
-	<div class="row footer">
+	<div class="row footer" id="contact-form">
 		<div class="col-md-2">
 			<br>
 		</div>
@@ -125,5 +123,14 @@ specifically customised to match your business industry.</p>
 	</div>
 
 </body>
+<script>
+$(window).scroll(function() {
+  if ($(document).scrollTop() > 50) {
+    $('nav').addClass('solid');
+  } else {
+    $('nav').removeClass('solid');
+  }
+});
 
-  </html>
+</script>
+</html>
