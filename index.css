@@ -53,9 +53,10 @@ nav.navbar.solid {
 }
 
 .img-css{
-	margin: 0vh 10vh;
-	width:450px;
-	height: 513px;
+	width:80%;
+	height: 100%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 .row{
 	margin: 5px 0px;
@@ -124,9 +125,8 @@ form label{
 	}
 
 	.img-css{
-		margin: 0vh 4vh;
-		max-width:300px;
 		max-height: 450px;
+		padding-top: 20px;
 	}
 
 	.cardrow h1{
@@ -136,8 +136,3 @@ form label{
 
 }
 
-@media only screen and (max-width: 600px){
-	.img-css{
-		margin: 0vh 0vh;
-	}
-}
